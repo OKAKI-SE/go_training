@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("LINE Notify")
+	fmt.Println("LINE Notify test")
 }
