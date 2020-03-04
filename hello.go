@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("GAE kinen")
+	fmt.Println("GAE kinen!!!")
 }
