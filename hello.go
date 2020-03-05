@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Notifyの通知来ない")
+	fmt.Println("方向転換")
 }
