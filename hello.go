@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("方向転換")
+	fmt.Println("思ってたのと違う")
 }
