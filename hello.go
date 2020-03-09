@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("GAEビルド成功記念")
+	fmt.Println("test")
 }
